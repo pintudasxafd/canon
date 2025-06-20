@@ -1,1 +1,1 @@
-# canon
+# canon-printer
